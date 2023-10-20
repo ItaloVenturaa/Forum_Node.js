@@ -1,0 +1,14 @@
+body{
+    background-color: #eceff1;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 700; /* Pode ajustar o peso da fonte conforme necessário */
+        font-size: 1.5rem; /* Pode ajustar o tamanho da fonte conforme necessário */
+        color: aliceblue;
+        margin-top: 10px;
+}

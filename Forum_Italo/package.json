@@ -1,0 +1,22 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas ao estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,mustache,html,css index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Italo Ventura",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.22.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
